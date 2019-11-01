@@ -1,0 +1,62 @@
+{
+  "pageDetails": [
+    {
+      "pageName": "PLP/PDP/Default/Anypage",
+      "bannerText": "$100 USD off on T-Mobile phones",
+      "marketingBladePath": "S3 path of well formed JSON",
+      "seoDetails": {
+        "title": "Cell Phones",
+        "h1": "",
+        "meta": [
+          {
+            "name": "title",
+            "property": "",
+            "content": "Unlimited Plans, Cell Phones, Evolving 4G &amp; 5G Coverage | T-Mobile"
+          },
+          {
+            "name": "description",
+            "property": "",
+            "content": "We keep you connected to what you love. Explore our plans, benefits, deals, and a stronger network that&#39;s paving the way for a 5G future"
+          },
+          {
+            "name": "keyword",
+            "property": "",
+            "content": "Phone, "
+          },
+          {
+            "name": "robots",
+            "property": "",
+            "content": "index, follow"
+          },
+          {
+            "name": "",
+            "property": "og:url",
+            "content": "https://www.t-mobile.com/cell-phone/apple-iphone-11-pro-max?sku=190199380349"
+          },
+          {
+            "name": "twitter:title",
+            "property": "",
+            "content": "New Apple iPhone 11 Pro Max | 4 colors in 64GB, 128GB &amp; 256GB | T-Mobile"
+          }
+        ],
+        "link": [
+          {
+            "rel": "canonical",
+            "href": "https://www.t-mobile.com/business",
+            "hreflang": ""
+          },
+          {
+            "rel": "alternate",
+            "href": "https://www.t-mobile.com/business",
+            "hreflang": "en-us"
+          },
+          {
+            "rel": "alternate",
+            "href": "https://es.t-mobile.com/business",
+            "hreflang": "es-us"
+          }
+        ]
+      }
+    }
+  ]
+}
